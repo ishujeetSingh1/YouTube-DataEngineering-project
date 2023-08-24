@@ -1,7 +1,7 @@
 # YouTube-DataEngineering-project
 
 ## Overview
-This project aims to securely manage, streamline, and perform analysis on the structured and semi-structured YouTube video data based on the video categories and the trending metrics.
+This project aims to securely manage, streamline, and perform analysis on the structured and semi-structured YouTube video data based on the video categories and trending metrics.
 
 # Project Objectives
 
@@ -34,4 +34,5 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 # Architecture Diagram
 
-![architecture](https://github.com/ishujeetSingh1/YouTube-DataEngineering-project/assets/142827400/35a0b6c7-cbbe-4bd9-9743-3f049252231c)
+![architecture](https://github.com/ishujeetSingh1/YouTube-DataEngineering-project/assets/142827400/fcb12f92-23b7-4127-a69b-9c88255d1077)
+
