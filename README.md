@@ -31,3 +31,7 @@ This project aims to securely manage, streamline, and perform analysis on the st
 Within this Kaggle dataset, you will find statistical information (stored in CSV files) regarding frequently viewed YouTube videos spanning numerous months. Each day witnesses the emergence of a potential 200 trending videos across various locations. The dataset is segmented into distinct files for each region, encompassing details such as video titles, channel titles, time of publication, tags, view counts, appreciation and dissatisfaction indicators, descriptions, and comment quantities. Additionally, a category_id field, unique to each region, is integrated within the JSON file associated with the particular area.
 
 https://www.kaggle.com/datasets/datasnaek/youtube-new
+
+# Architecture Diagram
+
+![architecture](https://github.com/ishujeetSingh1/YouTube-DataEngineering-project/assets/142827400/35a0b6c7-cbbe-4bd9-9743-3f049252231c)
