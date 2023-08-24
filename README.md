@@ -33,6 +33,7 @@ Within this Kaggle dataset, you will find statistical information (stored in CSV
 https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 # Architecture Diagram
+![Project architecture](https://github.com/ishujeetSingh1/YouTube-DataEngineering-project/assets/142827400/aead69f9-c826-4ae0-bfe9-7fe3337b4268)
 
-![architecture](https://github.com/ishujeetSingh1/YouTube-DataEngineering-project/assets/142827400/fcb12f92-23b7-4127-a69b-9c88255d1077) 
+
 
