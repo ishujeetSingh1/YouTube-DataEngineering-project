@@ -34,5 +34,5 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 # Architecture Diagram
 
-![architecture](https://github.com/ishujeetSingh1/YouTube-DataEngineering-project/assets/142827400/fcb12f92-23b7-4127-a69b-9c88255d1077)
+![architecture](https://github.com/ishujeetSingh1/YouTube-DataEngineering-project/assets/142827400/fcb12f92-23b7-4127-a69b-9c88255d1077) 
 
